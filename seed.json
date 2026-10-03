@@ -1,0 +1,156 @@
+[
+ {
+  "name": "Wooden study chair",
+  "cat": "Furniture",
+  "cond": "Good",
+  "act": "Donate",
+  "loc": "Jayanagar",
+  "owner": "Ananya R.",
+  "phone": "98450 11223",
+  "desc": "Solid teak chair used through two years of college. A few scratches on the back rest, nothing structural. Sitting unused since I moved rooms.",
+  "days": 2
+ },
+ {
+  "name": "Class 11 & 12 NCERT set",
+  "cat": "Books & Stationery",
+  "cond": "New-like",
+  "act": "Donate",
+  "loc": "Basavanagudi",
+  "owner": "Kiran M.",
+  "phone": "90192 44510",
+  "desc": "Complete physics, chemistry and maths set. Covered in brown paper, no writing inside. Happy to hand over to any student preparing this year.",
+  "days": 1
+ },
+ {
+  "name": "Glass pickle jars (set of 6)",
+  "cat": "Kitchen Items",
+  "cond": "For Creative Repurposing",
+  "act": "Repurpose",
+  "loc": "Malleswaram",
+  "owner": "Deepa S.",
+  "phone": "99001 87654",
+  "desc": "Cleaned and dried. Lids intact. Great for pantry storage, small planters or craft projects.",
+  "days": 4
+ },
+ {
+  "name": "Table fan, not spinning",
+  "cat": "Electronics",
+  "cond": "Needs Repair",
+  "act": "Repair",
+  "loc": "Rajajinagar",
+  "owner": "Vivek P.",
+  "phone": "88844 21190",
+  "desc": "Motor hums but the blades don't turn — likely a capacitor. Free to anyone who can fix it, or I'd like a pointer to a good repair shop nearby.",
+  "days": 6
+ },
+ {
+  "name": "Cotton kurtas, size M (4 pcs)",
+  "cat": "Clothes & Accessories",
+  "cond": "Good",
+  "act": "Donate",
+  "loc": "Koramangala",
+  "owner": "Sneha T.",
+  "phone": "97414 33208",
+  "desc": "Washed and pressed. Outgrew them after a size change. No tears or stains.",
+  "days": 3
+ },
+ {
+  "name": "Wooden packing crates (3)",
+  "cat": "Furniture",
+  "cond": "For Creative Repurposing",
+  "act": "Repurpose",
+  "loc": "HSR Layout",
+  "owner": "Rohit K.",
+  "phone": "93422 76001",
+  "desc": "Left over from a house shift. Sturdy pine. Stack them and you have a bookshelf.",
+  "days": 8
+ },
+ {
+  "name": "Scientific calculator FX-991",
+  "cat": "Electronics",
+  "cond": "Good",
+  "act": "Exchange",
+  "loc": "Jayanagar",
+  "owner": "Meera N.",
+  "phone": "80889 12345",
+  "desc": "Working perfectly, display clear. Looking to exchange for a drafting set or engineering drawing kit.",
+  "days": 5
+ },
+ {
+  "name": "Steel tiffin boxes (4)",
+  "cat": "Kitchen Items",
+  "cond": "New-like",
+  "act": "Donate",
+  "loc": "BTM Layout",
+  "owner": "Ganesh V.",
+  "phone": "97318 55420",
+  "desc": "Received as a gift, never used. Three-compartment stainless steel, still in the box.",
+  "days": 2
+ },
+ {
+  "name": "Bicycle with flat tyres",
+  "cat": "Toys & Others",
+  "cond": "Needs Repair",
+  "act": "Repair",
+  "loc": "Indiranagar",
+  "owner": "Farhan A.",
+  "phone": "91080 66712",
+  "desc": "Frame and chain are fine, both tubes are gone and brakes need adjusting. Would rather it get fixed than scrapped.",
+  "days": 9
+ },
+ {
+  "name": "Board games and puzzles",
+  "cat": "Toys & Others",
+  "cond": "Good",
+  "act": "Exchange",
+  "loc": "Whitefield",
+  "owner": "Priya L.",
+  "phone": "95912 30987",
+  "desc": "Carrom coins, two jigsaws (1000 pc, complete) and a chess set. Happy to swap for kids' story books.",
+  "days": 7
+ },
+ {
+  "name": "Old cotton t-shirts (bundle)",
+  "cat": "Clothes & Accessories",
+  "cond": "For Creative Repurposing",
+  "act": "Repurpose",
+  "loc": "Yelahanka",
+  "owner": "Arjun D.",
+  "phone": "99453 71100",
+  "desc": "Faded but soft and clean. Ideal for stitching tote bags or cutting into cleaning cloths.",
+  "days": 11
+ },
+ {
+  "name": "Study lamp with loose switch",
+  "cat": "Electronics",
+  "cond": "Needs Repair",
+  "act": "Repair",
+  "loc": "Malleswaram",
+  "owner": "Nandini B.",
+  "phone": "90350 44871",
+  "desc": "LED panel works when you hold the switch at an angle. Needs a new switch soldered in.",
+  "days": 4
+ },
+ {
+  "name": "Wall shelf brackets & planks",
+  "cat": "Furniture",
+  "cond": "Good",
+  "act": "Donate",
+  "loc": "Koramangala",
+  "owner": "Sameer J.",
+  "phone": "98867 20134",
+  "desc": "Two 3-ft laminated planks with metal brackets and screws. Removed during a repaint, no longer needed.",
+  "days": 13
+ },
+ {
+  "name": "Notebooks, half-used (12)",
+  "cat": "Books & Stationery",
+  "cond": "For Creative Repurposing",
+  "act": "Repurpose",
+  "loc": "BTM Layout",
+  "owner": "Lakshmi H.",
+  "phone": "94488 65532",
+  "desc": "Plenty of blank pages left in each. Bind the clean sheets together into fresh rough books.",
+  "days": 6
+ }
+]
